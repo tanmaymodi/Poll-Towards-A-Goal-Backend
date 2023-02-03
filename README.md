@@ -38,5 +38,5 @@ https://poll-towards-a-goal.netlify.app/
 <img src="https://github.com/vijayjoshi16/Poll-Towards-A-Goal-Frontend/blob/assets/assets/results.png" ></img>
 
 <h2 align="center">Loved this project?? If yes, don't forget to give it a ⭐ and share it with your friends 😃</h2>
-<h2 align="center">Check out my other works at https://github.com/vijayjoshi16</h2>
+<h2 align="center">Check out my other works at https://github.com/tanmaymodi</h2>
 <h1 align="center">Thank You</h1>
